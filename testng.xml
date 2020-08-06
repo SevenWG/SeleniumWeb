@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="username" value="weiw4180@gmail.com"></parameter>
+    <parameter name="password" value="a123456a"></parameter>
+    <parameter name="url" value="https://www.imooc.com/user/newlogin"></parameter>
+    <test verbose="2" preserve-order="true" name="/Users/weiwei/IdeaProjects/SeleniumWeb">
+        <classes>
+<!--            <class name="com.sevenwg.web.tutorials.Selenium">
+                <methods>
+                    <include name="LoginAction"/>
+                </methods>
+            </class>-->
+            <class name="com.sevenwg.web.testcase.LoginCase">
+                <methods>
+                    <include name="LoginSuccessTest"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
