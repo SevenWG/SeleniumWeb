@@ -109,7 +109,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="270">
               <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
             </state>
           </provider>
@@ -449,7 +449,7 @@
     <property name="SearchEverywhereHistoryKey" value="GetUserCookie&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597022784561" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597067892985" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -579,7 +579,7 @@
       <workItem from="1595624094386" duration="24095000" />
       <workItem from="1596210708862" duration="39518000" />
       <workItem from="1596835794434" duration="3306000" />
-      <workItem from="1596986976630" duration="4803000" />
+      <workItem from="1596986976630" duration="4972000" />
     </task>
     <servers />
   </component>
@@ -616,13 +616,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71722000" />
+    <option name="totallyTimeSpent" value="71891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49371633" visible="true" weight="0.22389127" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49371633" visible="true" weight="0.22389127" />
       <window_info id="Structure" order="1" sideWeight="0.50628364" side_tool="true" weight="0.3955651" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -633,12 +632,12 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4759036" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4759036" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="CheckStyle" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -1049,7 +1048,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="270">
           <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>

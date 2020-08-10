@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <parameter name="browser" value="chrome"/>
 
-<!--    <test name="LoginTest">
+    <test name="LoginTest">
         <classes>
             <class name="com.sevenwg.web.testcase.LoginCase">
                 <parameter name="username" value="jacob.zhou.ca@gmail.com"></parameter>
@@ -15,9 +15,9 @@
                 </methods>
             </class>
         </classes>
-    </test>-->
+    </test>
 
-<!--    <test name="ShoppingCartTest">
+    <test name="ShoppingCartTest">
         <classes>
             <class name="com.sevenwg.web.testcase.CourseCase">
                 <parameter name="url" value="https://coding.imooc.com/class/303.html"/>
@@ -29,7 +29,7 @@
                 </methods>
             </class>
         </classes>
-    </test>-->
+    </test>
 
     <test name="sure">
         <classes>
