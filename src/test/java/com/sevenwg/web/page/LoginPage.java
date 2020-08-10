@@ -15,18 +15,17 @@ public class LoginPage extends BasePage {
     }
 
     public WebElement GetPasswordElement() {
-
         return this.GetElement("password");
     }
 
     public WebElement GetLoginBtnElement() {
-
         return this.GetElement("loginbutton");
     }
 
     public WebElement GetAvatorElement() {
         return this.GetElement("headpng");
     }
+
     public WebElement GetUserNameElement() {
         return this.GetElement("userinfo");
     }

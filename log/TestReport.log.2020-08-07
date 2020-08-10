@@ -1,0 +1,370 @@
+2020-08-07 17:33:12  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:24) main com.sevenwg.web.testcase.LoginCase - Initialize Web Browser 
+2020-08-07 17:33:12  [ main:13 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:27) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:35:18  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:24) main com.sevenwg.web.testcase.LoginCase - Initialize Web Browser 
+2020-08-07 17:35:18  [ main:3 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:27) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:35:33  [ main:14540 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:20) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:36:26  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:24) main com.sevenwg.web.testcase.LoginCase - Initialize Web Browser 
+2020-08-07 17:36:26  [ main:4 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:27) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:36:45  [ main:18989 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:20) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:39:12  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:24) main com.sevenwg.web.testcase.LoginCase - Initialize Web Browser 
+2020-08-07 17:39:12  [ main:4 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:27) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:39:34  [ main:22331 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:40:35  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:24) main com.sevenwg.web.testcase.LoginCase - Initialize Web Browser 
+2020-08-07 17:40:35  [ main:4 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:27) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:40:48  [ main:13044 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:40:48  [ main:13049 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:48  [ main:13050 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:40:48  [ main:13071 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:40:48  [ main:13072 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:48  [ main:13072 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:40:48  [ main:13112 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:40:48  [ main:13113 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:40:48  [ main:13114 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:48  [ main:13114 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:40:48  [ main:13123 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:40:48  [ main:13124 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:48  [ main:13125 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:40:49  [ main:13379 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:40:49  [ main:13380 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:49  [ main:13380 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:40:49  [ main:13392 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:40:49  [ main:13393 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:49  [ main:13393 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:40:49  [ main:13426 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:40:49  [ main:13427 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:40:49  [ main:13427 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:49  [ main:13427 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:40:49  [ main:13437 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:40:49  [ main:13437 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:40:49  [ main:13437 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:40:49  [ main:13490 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:40:49  [ main:13491 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:40:49  [ main:13492 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:40:49  [ main:13504 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:40:49  [ main:13504 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:40:49  [ main:13505 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:40:49  [ main:13580 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:40:49  [ main:13581 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:40:49  [ main:13581 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:40:54  [ main:18462 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:40:54  [ main:18463 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:40:54  [ main:18463 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:40:54  [ main:18624 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:40:54  [ main:18625 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:40:54  [ main:18625 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:40:54  [ main:18637 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:40:54  [ main:18637 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:40:54  [ main:18638 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:42:09  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:24) main com.sevenwg.web.testcase.LoginCase - Initialize Web Browser 
+2020-08-07 17:42:09  [ main:4 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:27) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:42:24  [ main:15562 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:24  [ main:15568 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:24  [ main:15569 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:24  [ main:15591 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:24  [ main:15592 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:24  [ main:15592 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:24  [ main:15668 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:42:24  [ main:15669 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:24  [ main:15682 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:24  [ main:15682 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:24  [ main:15692 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:24  [ main:15694 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:24  [ main:15694 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:25  [ main:15968 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:25  [ main:15970 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:25  [ main:15970 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:25  [ main:15984 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:25  [ main:15985 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:25  [ main:15985 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:25  [ main:16021 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:42:25  [ main:16022 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:25  [ main:16022 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:25  [ main:16022 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:25  [ main:16031 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:25  [ main:16032 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:25  [ main:16032 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:25  [ main:16088 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:42:25  [ main:16089 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:42:25  [ main:16089 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:42:25  [ main:16101 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:42:25  [ main:16102 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:42:25  [ main:16102 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:42:25  [ main:16174 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:42:25  [ main:16175 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:42:25  [ main:16175 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:42:32  [ main:23136 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:42:32  [ main:23136 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:42:32  [ main:23136 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:42:32  [ main:23297 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:42:32  [ main:23298 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:42:32  [ main:23298 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:42:32  [ main:23314 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:42:32  [ main:23315 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:42:32  [ main:23315 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:42:32  [ main:23529 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:24) main com.sevenwg.web.testcase.LoginCase - Initialize Web Browser 
+2020-08-07 17:42:32  [ main:23531 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:27) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:42:45  [ main:36039 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:45  [ main:36041 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36041 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:45  [ main:36056 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:45  [ main:36056 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36057 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:45  [ main:36095 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: weiw4180@gmail.com 
+2020-08-07 17:42:45  [ main:36096 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:45  [ main:36096 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36096 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:45  [ main:36104 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:45  [ main:36105 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36105 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:45  [ main:36292 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:45  [ main:36292 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36293 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:45  [ main:36305 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:45  [ main:36306 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36306 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:45  [ main:36340 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:42:45  [ main:36340 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:45  [ main:36341 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36341 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:45  [ main:36349 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:45  [ main:36350 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36350 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:45  [ main:36402 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:42:45  [ main:36403 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:42:45  [ main:36403 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:42:45  [ main:36415 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:42:45  [ main:36416 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:42:45  [ main:36416 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:42:45  [ main:36498 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:45  [ main:36498 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36499 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:45  [ main:36507 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:42:45  [ main:36508 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36508 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:42:45  [ main:36560 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:45  [ main:36560 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36560 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:42:45  [ main:36568 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:42:45  [ main:36569 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:42:45  [ main:36569 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:45:27  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:45:40  [ main:12967 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:45:40  [ main:12972 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:12972 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:45:40  [ main:13030 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:45:40  [ main:13031 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:13031 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:45:40  [ main:13081 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:45:40  [ main:13082 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:45:40  [ main:13083 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:13083 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:45:40  [ main:13092 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:45:40  [ main:13093 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:13093 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:45:40  [ main:13299 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:45:40  [ main:13302 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:13304 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:45:40  [ main:13319 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:45:40  [ main:13319 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:13320 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:45:40  [ main:13369 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:45:40  [ main:13370 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:45:40  [ main:13371 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:13371 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:45:40  [ main:13379 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:45:40  [ main:13380 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:45:40  [ main:13380 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:45:40  [ main:13441 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:45:40  [ main:13442 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:45:40  [ main:13442 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:45:40  [ main:13454 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:45:40  [ main:13454 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:45:40  [ main:13454 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:45:40  [ main:13571 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:45:40  [ main:13572 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:45:40  [ main:13573 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:45:46  [ main:19330 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:45:46  [ main:19331 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:45:46  [ main:19331 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:45:46  [ main:19467 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:45:46  [ main:19468 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:45:46  [ main:19468 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:45:46  [ main:19480 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:45:46  [ main:19480 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:45:46  [ main:19481 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:45:48  [ main:20997 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:46:00  [ main:33195 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:46:00  [ main:33195 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33196 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:46:00  [ main:33209 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:46:00  [ main:33210 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33210 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:46:00  [ main:33244 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: weiw4180@gmail.com 
+2020-08-07 17:46:00  [ main:33245 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:46:00  [ main:33245 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33245 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:46:00  [ main:33254 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:46:00  [ main:33254 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33254 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:46:00  [ main:33411 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:46:00  [ main:33412 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33412 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:46:00  [ main:33424 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:46:00  [ main:33424 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33424 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:46:00  [ main:33469 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:46:00  [ main:33469 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:46:00  [ main:33470 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33470 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:46:00  [ main:33478 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:46:00  [ main:33479 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:46:00  [ main:33479 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:46:00  [ main:33554 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:46:00  [ main:33555 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:46:00  [ main:33555 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:46:00  [ main:33567 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:46:00  [ main:33567 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:46:00  [ main:33567 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:47:11  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:47:30  [ main:18522 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:47:30  [ main:18526 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18527 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:47:30  [ main:18548 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:47:30  [ main:18549 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18549 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:47:30  [ main:18596 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:47:30  [ main:18596 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:47:30  [ main:18598 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18599 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:47:30  [ main:18609 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:47:30  [ main:18610 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18610 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:47:30  [ main:18857 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:47:30  [ main:18858 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18859 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:47:30  [ main:18880 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:47:30  [ main:18881 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18881 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:47:30  [ main:18935 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:47:30  [ main:18936 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:47:30  [ main:18937 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18937 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:47:30  [ main:18946 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:47:30  [ main:18947 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:47:30  [ main:18947 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:47:30  [ main:19010 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:47:30  [ main:19011 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:47:30  [ main:19011 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:47:30  [ main:19022 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:47:30  [ main:19022 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:47:30  [ main:19023 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:47:30  [ main:19102 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:47:30  [ main:19102 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:47:30  [ main:19102 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:48:21  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:48:46  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:48:48  [ main:2025 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:48:48  [ main:2028 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:48:48  [ main:2028 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:48:58  [ main:12421 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:48:58  [ main:12422 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:48:58  [ main:12422 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:49:00  [ main:14720 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:49:02  [ main:16725 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:49:02  [ main:16727 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:49:02  [ main:16727 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:49:13  [ main:27058 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:49:13  [ main:27059 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:49:13  [ main:27059 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:49:42  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:49:44  [ main:2026 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:49:44  [ main:2034 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:49:44  [ main:2035 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:49:55  [ main:12446 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:49:55  [ main:12447 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:49:55  [ main:12447 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:49:57  [ main:14743 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:49:59  [ main:16745 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:49:59  [ main:16746 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:49:59  [ main:16747 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:50:09  [ main:27091 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:50:09  [ main:27092 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:09  [ main:27092 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:50:34  [ main:0 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:50:46  [ main:11688 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:50:46  [ main:11690 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:11691 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:50:46  [ main:11709 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:50:46  [ main:11710 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:11711 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:50:46  [ main:11756 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: jacob.zhou.ca@gmail.com 
+2020-08-07 17:50:46  [ main:11757 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:50:46  [ main:11757 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:11758 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:50:46  [ main:11767 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:50:46  [ main:11767 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:11768 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:50:46  [ main:11982 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:50:46  [ main:11983 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:11984 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:50:46  [ main:11996 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:50:46  [ main:11996 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:11996 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:50:46  [ main:12029 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:50:46  [ main:12029 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:50:46  [ main:12029 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:12029 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:50:46  [ main:12038 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:50:46  [ main:12038 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:50:46  [ main:12038 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:50:46  [ main:12092 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:50:46  [ main:12093 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:50:46  [ main:12093 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:50:46  [ main:12106 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:50:46  [ main:12106 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:50:46  [ main:12106 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:50:46  [ main:12176 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:50:46  [ main:12177 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:50:46  [ main:12177 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:50:56  [ main:22560 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: headpng 
+2020-08-07 17:50:56  [ main:22561 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: id 
+2020-08-07 17:50:56  [ main:22561 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: header-avator 
+2020-08-07 17:50:57  [ main:22707 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:50:57  [ main:22707 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:50:57  [ main:22708 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:50:57  [ main:22719 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: userinfo 
+2020-08-07 17:50:57  [ main:22720 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:50:57  [ main:22720 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: text-ellipsis 
+2020-08-07 17:50:58  [ main:24218 ] - [ DEBUG ]  com.sevenwg.web.testcase.LoginCase.BeforeMethod(LoginCase.java:26) main com.sevenwg.web.testcase.LoginCase - Open Web Browser 
+2020-08-07 17:51:09  [ main:34639 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:51:09  [ main:34640 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34640 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:51:09  [ main:34654 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:51:09  [ main:34654 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34654 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:51:09  [ main:34688 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputEmail(LoginHandle.java:21) main com.sevenwg.web.handle.LoginHandle - User Email: weiw4180@gmail.com 
+2020-08-07 17:51:09  [ main:34688 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:51:09  [ main:34689 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34689 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:51:09  [ main:34696 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: username 
+2020-08-07 17:51:09  [ main:34696 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34696 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: email 
+2020-08-07 17:51:09  [ main:34877 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:51:09  [ main:34878 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34878 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:51:09  [ main:34890 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:51:09  [ main:34890 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34890 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:51:09  [ main:34924 ] - [ DEBUG ]  com.sevenwg.web.handle.LoginHandle.InputPassword(LoginHandle.java:27) main com.sevenwg.web.handle.LoginHandle - User Password: a123456a 
+2020-08-07 17:51:09  [ main:34924 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:51:09  [ main:34925 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34925 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:51:09  [ main:34933 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: password 
+2020-08-07 17:51:09  [ main:34933 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: name 
+2020-08-07 17:51:09  [ main:34934 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: password 
+2020-08-07 17:51:09  [ main:34993 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:51:09  [ main:34994 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:51:09  [ main:34994 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 
+2020-08-07 17:51:09  [ main:35006 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:40) main com.sevenwg.web.page.BasePage - Property Key is: loginbutton 
+2020-08-07 17:51:09  [ main:35007 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:44) main com.sevenwg.web.page.BasePage - By locator is: className 
+2020-08-07 17:51:09  [ main:35007 ] - [ DEBUG ]  com.sevenwg.web.page.BasePage.GetByLocal(BasePage.java:45) main com.sevenwg.web.page.BasePage - By value is: moco-btn-red 

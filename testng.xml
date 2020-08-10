@@ -1,21 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <parameter name="username" value="weiw4180@gmail.com"></parameter>
-    <parameter name="password" value="a123456a"></parameter>
-    <parameter name="url" value="https://www.imooc.com/user/newlogin"></parameter>
-    <test verbose="2" preserve-order="true" name="/Users/weiwei/IdeaProjects/SeleniumWeb">
+    <parameter name="browser" value="chrome"/>
+
+<!--    <test name="LoginTest">
         <classes>
-<!--            <class name="com.sevenwg.web.tutorials.Selenium">
-                <methods>
-                    <include name="LoginAction"/>
-                </methods>
-            </class>-->
             <class name="com.sevenwg.web.testcase.LoginCase">
+                <parameter name="username" value="jacob.zhou.ca@gmail.com"></parameter>
+                <parameter name="password" value="a123456a"></parameter>
+                <parameter name="url" value="https://www.imooc.com/user/newlogin"></parameter>
                 <methods>
                     <include name="LoginSuccessTest"></include>
+                    <include name="LoginEmailError"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>-->
+
+<!--    <test name="ShoppingCartTest">
+        <classes>
+            <class name="com.sevenwg.web.testcase.CourseCase">
+                <parameter name="url" value="https://coding.imooc.com/class/303.html"/>
+                <parameter name="coursename" value="剑指Java面试-Offer直通车"/>
+                <methods>
+                    <include name="TestAddCourseSuccess"></include>
+                    <include name="TestAlreadyBuy"></include>
+                    <include name="TestAlreadyLogin"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>-->
+
+    <test name="sure">
+        <classes>
+            <class name="com.sevenwg.web.testcase.OrderSubmitCase" >
+                <parameter name="url" value="https://order.imooc.com/pay/confirm/goods_ids/1-303"/>
+                <methods>
+                    <!--<include name="SubmitOrder" ></include>-->
+                    <include name="SubmitOrderWithoutLoggingIn" ></include>
                 </methods>
             </class>
         </classes>
     </test>
+
 </suite>
